@@ -1,7 +1,10 @@
-# Need help getting started?
-
-Check out the [AI-assisted coding via Gemini Guide](https://lpcode808.github.io/Hawaii-Code-AI-Thon-Help/gemini-guide.html)
 # Team Project Template
+
+> Need help getting started? Use the [AI-assisted coding via Gemini Guide](https://lpcode808.github.io/Hawaii-Code-AI-Thon-Help/gemini-guide.html).
+
+## Official Event Submission
+This repository is the team’s official private code submission for the HAIS Code AI Thon.
+Keep this repo private during the build phase unless your team chooses to publish a public version later.
 
 ## Team Info
 - School:
