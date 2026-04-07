@@ -1,6 +1,6 @@
 # Need help getting started?
 
-Check out the (AI-assisted coding via Gemini Guide)[https://lpcode808.github.io/Hawaii-Code-AI-Thon-Help/gemini-guide.html]
+Check out the [AI-assisted coding via Gemini Guide](https://lpcode808.github.io/Hawaii-Code-AI-Thon-Help/gemini-guide.html)
 # Team Project Template
 
 ## Team Info
