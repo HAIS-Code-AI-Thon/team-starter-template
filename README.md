@@ -42,7 +42,8 @@ How did your team build this?
 
 ## Demo Link
 Add a public demo link here if your team creates one:
-- Demo URL:
+- Demo URL: A public demo is optional. Your official submission is this repository.
+If your team wants a public live demo, you may publish one separately or make a public version later.
 
 ## Notes for Organizers / Judges
 Anything important we should know:
